@@ -153,6 +153,8 @@ h1{
 }
 
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/119103704/215118866-e61eeff6-7cee-4ac6-af14-b23f94bfb3ce.png)
+
 
 ## HTML VALIDATOR:
 
