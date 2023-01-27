@@ -25,7 +25,6 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -79,11 +78,16 @@ Publish the website in the given URL.
     </div>
 
 </body>
-<script src="/static/JS/index.js"></script>
+
+
+    <script src="/static/JS/index.js"></script>
+
 
 </html>
 
+
 index.js
+
 let screen = document.getElementById('screen');
 buttons = document.querySelectorAll('button');
 let screenValue = '';
@@ -151,12 +155,18 @@ h1{
     font-size: 28px;
     font-family: 'Courier New', Courier, monospace;
 }
+        
+   
 
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/119103704/215118866-e61eeff6-7cee-4ac6-af14-b23f94bfb3ce.png)
 
 
 ## HTML VALIDATOR:
+![image](https://user-images.githubusercontent.com/119103704/215119469-78d9904e-c556-4899-b1ee-4de6de1f463c.png)
+
 
 ## RESULT:
+
+The program for desinging a calculator using javascript has been successfully executed.
 
